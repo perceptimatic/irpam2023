@@ -2,5 +2,3 @@ theme: jekyll-theme-slate
 title: Interspeech 2023 Special Session on Invariant and Robust Pretrained Acoustic Models
 description: Interspeech 2023 Special Session on Invariant and Robust Pretrained Acoustic Models
 email: irpam2023@gmail.com
-baseurl: "/irpam2023" # the subpath of your site, e.g. /blog
-url: "https://perceptimatic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
