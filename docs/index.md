@@ -1,9 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
 Paragraph about the topic.
 
 Topics of interest cover a variety of papers centered on pre-trained acoustic models trained with limited or no supervision, including (but not limited to):
