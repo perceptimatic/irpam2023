@@ -12,33 +12,39 @@ However, this research remains extremely limited: evaluation is limited to a few
 
 Progress on these issues could unlock new levels of performance on higher-level tasks such as word segmentation, named entity recognition, and language modelling, where using the discretized “units” discovered by pre-trained acoustic models still lag behind state-of-the-art text-based models. Importantly, progress on talker and accent robustness would contribute to the serious fairness problem that current ASR models have (including those using pre-trained acoustic models as features) whereby [lower socioeconomic status is highly correlated with higher word error rate](https://arxiv.org/abs/2110.08583).
 
-This special session aims to address both the **evaluation problem**and the **problem of invariance** in pretrained acoustic models.
+### Invariant and Robust Pretrained Acoustic Models 2023
+
+The 2023 Interspeech Special Session on Invariant and Robust Pretrained Acoustic Models (IRPAM) aims to address both the **evaluation problem**
+and the **problem of invariance** in pretrained acoustic models.
 
 We invite researchers to submit papers in one of two tracks.
 
 1. The **evaluation track** will accept proposed systematic **evaluation measures, test sets,** or **benchmarks** for pre-trained acoustic models, including but not limited to context-invariance, talker-invariance, accent-invariance, or robustness to noise and distortions. In the interest of in-depth validation of the proposed evaluations in the  limited Interspeech page limit, such papers should *not* propose new models.
 2. The **model track** will propose new models or techniques and demonstrate empirically that they improve the invariance or robustness properties of pre-trained speech representations, evaluating using existing approaches or variants on existing benchmarks/measures. This could also include techniques for disentanglement in pre-trained acoustic models. Models submitted to this track must *not* propose new evaluation measures, and must use standard, existing evaluations.
 
-Suggested evaluations for the model track include:
-- [ZeroSpeech](https://zerospeech.com) Task 1 (acoustic) evaluations, focusing on **within versus across-speaker** measures as well as the brand new **within versus across-context** measures of context invariance, based on this [recent paper](https://arxiv.org/abs/2210.15775)
--
+Suggested evaluations for the model track include, but are not limited to:
+
+- The [ZeroSpeech](https://zerospeech.com) Task 1 (acoustic) evaluations, focusing on **within versus across-speaker** measures as well as the brand new **within versus across-context** measures of context invariance, based on this [recent paper](https://arxiv.org/abs/2210.15775)
+- Measuring speaker- and/or accent- invariance via a decrease in performance on the [SUPERB](https://superbbenchmark.org/), Benchmark **SID** (speaker ID) task, and/or accent ID on the [L2-ARCTIC](https://psi.engr.tamu.edu/l2-arctic-corpus/) corpus, following the example of this [recent paper](https://proceedings.mlr.press/v162/qian22b.html)
+- Evaluating noise/signal distortion robustness by applying the **unit edit distance** (UED) score and distortions proposed in this [recent paper](https://arxiv.org/abs/2209.15483)
+
 
 
 ### Organizers
-- Ewan Dunbar, University of Toronto
-- Emmanuel Dupoux, École des Hautes Études en Sciences Sociales / École Normale Supérieure / Meta
-- Hung-yi Lee, XXX
+- [Ewan Dunbar](http://ewan.website/), University of Toronto
+- [Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/), École des Hautes Études en Sciences Sociales / École Normale Supérieure / Meta
+- [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php), National Taiwan University
 - Abdelrahman Mohamed
 
 ### Call for papers
-Submissions for IRPAM will follow the same schedule and procedure as the main conference. More details to come.
+Submissions for IRPAM will follow the same schedule and procedure as the main [Interspeech 2023](https://interspeech2023.org) conference, which will be held in-person in Dublin. More details to come.
 
 ### Important Dates
-- Paper submission deadline: XXX, 23:59, Anywhere on Earth.
-- Paper update deadline: XXX, 23:59, Anywhere on Earth.
-- Author notification: XXX
-- Interspeech conference dates: XXX
+- Paper submission deadline: **March 1st, 2023**, 23:59, Anywhere on Earth.
+- Paper update deadline: **March 8th, 2023**, 23:59, Anywhere on Earth.
+- Author notification: **May 17th, 2023**
+- Interspeech conference dates: **August 20th to 24th**, Dublin, Ireland
 
 ### Contact
-If you have any questions, please contact us at XXX@gmail.com.
+If you have any questions, please contact us at irpam2023@gmail.com.
 
