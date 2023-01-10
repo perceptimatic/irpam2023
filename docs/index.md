@@ -19,8 +19,8 @@ and the **problem of invariance** in pretrained acoustic models.
 
 We invite researchers to submit papers in one of two tracks.
 
-1. The **evaluation track** will accept proposed systematic **evaluation measures, test sets,** or **benchmarks** for pre-trained acoustic models, including but not limited to context-invariance, talker-invariance, accent-invariance, or robustness to noise and distortions. In the interest of in-depth validation of the proposed evaluations in the  limited Interspeech page limit, such papers should *not* propose new models.
-2. The **model track** will propose new models or techniques and demonstrate empirically that they improve the invariance or robustness properties of pre-trained speech representations, evaluating using existing approaches or variants on existing benchmarks/measures. This could also include techniques for disentanglement in pre-trained acoustic models. Models submitted to this track must *not* propose new evaluation measures, and must use standard, existing evaluations.
+1. The **evaluation track** will accept proposed systematic **evaluation measures, test sets,** or **benchmarks** for pre-trained acoustic models, including but not limited to context-invariance, talker-invariance, accent-invariance, or robustness to noise and distortions. In the interest of in-depth validation of the proposed evaluations in the  limited Interspeech page limit, such papers should *not* propose substantive new models.
+2. The **model track** will propose new models or techniques and demonstrate empirically that they improve the invariance or robustness properties of pre-trained speech representations, evaluating using existing approaches or variants on existing benchmarks/measures. This could also include techniques for disentanglement in pre-trained acoustic models. Models submitted to this track must *not* be aimed at proposing new evaluation measures, and must rely primarily on standard, existing evaluations for their argumentation.
 
 Suggested evaluations for the model track include, but are not limited to:
 
