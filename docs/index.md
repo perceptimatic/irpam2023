@@ -28,6 +28,11 @@ Suggested evaluations for the model track include, but are not limited to:
 - Measuring speaker- and/or accent- invariance via a decrease in performance on the [SUPERB](https://superbbenchmark.org/), Benchmark **SID** (speaker ID) task, and/or accent ID on the [L2-ARCTIC](https://psi.engr.tamu.edu/l2-arctic-corpus/) corpus, following the example of this [recent paper](https://proceedings.mlr.press/v162/qian22b.html)
 - Evaluating noise/signal distortion robustness by applying the **unit edit distance** (UED) score and distortions proposed in this [recent paper](https://arxiv.org/abs/2209.15483)
 
+The new ZeroSpeech Task 1 measures (found in the updated **ABX-LS** benchmark) are based on the analysis of [Hallap et al](https://arxiv.org/abs/2210.15775), which examined in detail whether systems learned **context-dependent allophone** representations or something        more like **context-independent phoneme** representations.
+
+<img src="{{site.baseurl}}/assets/abxcontext-exp1.png">
+
+The results, shown above for a handful of recent systems, demonstrate that phoneme ABX discriminability tests (a measure of how well representations code phonemic contrasts: lower is better) are much poorer when they do not control for the phonological context (e.g., comparing the centre phone of the word *cat* /kæt/ with the centre phone of the word *dog* /dɔɡ/ ), indicated in orange in the graph, versus when the context is controlled (e.g., comparing the centre phone of *cat* versus *cot* /kɔt/), as indicated in purple. The error rate increases by a factor of roughly 400% in some cases! This is a much greater penalty than is seen for within- versus across-speaker (triangle versus circle) or for the *clean* versus *other* subsets of LibriSpeech (solid versus dotted). This suggests that **context-independence** of the learned units is still relatively poor.
 
 
 ### Organizers
