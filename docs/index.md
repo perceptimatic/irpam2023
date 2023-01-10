@@ -10,7 +10,7 @@ The limited research that has addressed these questions directly suggests:
 - and that they [are highly sensitive to noise and distortions, including time-dilation](https://arxiv.org/abs/2209.15483)
 However, this research remains extremely limited: evaluation is limited to a few models, and the two standard benchmarks ([**ZeroSpeech:**](https://zerospeech.com/) intrinsic representation quality; **[SUPERB](https://superbbenchmark.org/), [SUPERB-SG](https://arxiv.org/abs/2203.06849):** downstream tasks) only assess talker invariance, and only in a superficial way. There is no standard evaluation for invariance to context, noise, and other distortions, and only limited evaluation of talker-/accent-invariance.
 
-For example, the new phoneme-based ZeroSpeech Task 1 measures (see below) are based on the analysis of [Hallap et al](https://arxiv.org/abs/2210.15775), which examined in detail whether systems learned **context-dependent allophone** representations or something        more like **context-independent phoneme** representations.
+For example, the analysis of [Hallap et al](https://arxiv.org/abs/2210.15775) (now available publicly via Task 1 of the Zero Resource Speech Benchmark: see below) examined in detail whether systems learned **context-dependent allophone** representations or something        more like **context-independent phoneme** representations.
 
 {:refdef: style="text-align: center;"}
 <img src="{{site.baseurl}}/assets/abxcontext-exp1.png" width="400">
