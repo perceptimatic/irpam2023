@@ -52,7 +52,7 @@ Or other reproducible evaluations that can be found in the existing literature.
 - [Ewan Dunbar](http://ewan.website/), University of Toronto
 - [Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/), École des Hautes Études en Sciences Sociales / École Normale Supérieure / Meta
 - [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php), National Taiwan University
-- Abdelrahman Mohamed
+- Abdelrahman Mohamed, Rembrand
 
 ### Call for papers
 Submissions for IRPAM will follow the same schedule and procedure as the main [Interspeech 2023](https://interspeech2023.org) conference, which will be held in-person in Dublin. More details to come.
