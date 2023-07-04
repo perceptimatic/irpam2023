@@ -29,7 +29,14 @@ Progress on issues of invariance and robustness could unlock new levels of perfo
 The 2023 Interspeech Special Session on Invariant and Robust Pretrained Acoustic Models (IRPAM) aims to address both the **evaluation problem**
 and the **problem of invariance** in pretrained acoustic models.
 
-We invite researchers to submit papers in one of two tracks.
+*Preliminary Schedule*
+
+| Time                |                                                            |
+|---------------------|------------------------------------------------------------|
+| 10:00               | Introduction and discussion                                |
+
+
+The workshop will focus on two types of research:
 
 1. The **evaluation track** will accept proposed systematic **evaluation measures, test sets,** or **benchmarks** for pre-trained acoustic models, including but not limited to
 - context-invariance
@@ -59,9 +66,9 @@ Submissions for IRPAM will follow the same schedule and procedure as the main [I
 
 ### Important Dates
 - ~~Paper submission deadline: **March 1st, 2023**, 23:59, Anywhere on Earth.~~
-- Paper update deadline: **March 8th, 2023**, 23:59, Anywhere on Earth.
-- Author notification: **May 17th, 2023**
-- Interspeech conference dates: **August 20th to 24th**, Dublin, Ireland
+- ~~Paper update deadline: **March 8th, 2023**, 23:59, Anywhere on Earth.~~
+- ~~Author notification: **May 17th, 2023**~~
+- Session to be held **Wednesday, August 23rd 10AM-12PM**, local time, during Interspeech, August 20th to 24th, Dublin, Ireland
 
 ### Contact
 If you have any questions, please contact us at irpam2023@gmail.com.
