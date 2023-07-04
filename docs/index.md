@@ -29,24 +29,25 @@ Progress on issues of invariance and robustness could unlock new levels of perfo
 The 2023 Interspeech Special Session on Invariant and Robust Pretrained Acoustic Models (IRPAM) aims to address both the **evaluation problem**
 and the **problem of invariance** in pretrained acoustic models.
 
-*Preliminary Schedule*
-*** Wednesday, August 23rd at INTERSPEECH 2023, Dublin***
+***Preliminary Schedule***
+*Wednesday, August 23rd at INTERSPEECH 2023, Dublin*
+
 
 *All paper presentations will be oral. Presenters will have **13 minutes** for
 the oral presentation **including 3 minutes for short questions** (**10+3**)*
 
 | Time                |                                                            |
 |---------------------|------------------------------------------------------------|
-| 10:00               | Introduction and discussion                                |
-|                     | Oral presentations: Evaluation and analysis track          |
+| 10:00               | **Introduction and discussion**                              |
+|                     | **Oral presentations: Evaluation and analysis track**          |
 | 10:12-10:25         | #438: ProsAudit: A prosodic benchmark for self-supervised speech models (De Seyssel et al.) |
 | 10:26-10:39         | #871: Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces (Liu et al.) |
 | 10:40-10:53         | #1862: Evaluating context-invariance in unsupervised speech representations (Hallap et al.) |
-|                     | Oral presentations: Model track                            |
+|                     | **Oral presentations: Model track**                            |
 | 10:54-11:07         | #1390 – CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning (Meng et al.) |
 | 11:08-11:08         | #847 – Self-supervised Fine-tuning for Improved Content Representations by Speaker-invariant Clustering (Chang et al.) |
 | 11:22-11:35         | #359 – Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder (Lin et al.) |
-| 11:36-12:00         | Guided panel discussion with paper authors                |
+| 11:36-12:00         | **Guided panel discussion with paper authors**              |
 
 
 The workshop will focus on two types of research:
