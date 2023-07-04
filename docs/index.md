@@ -40,13 +40,13 @@ the oral presentation **including 3 minutes for short questions** (**10+3**)*
 |---------------------|------------------------------------------------------------|
 | 10:00               | **Introduction and discussion**                              |
 |                     | **Oral presentations: Evaluation and analysis track**          |
-| 10:12-10:25         | #438: ProsAudit: A prosodic benchmark for self-supervised speech models (De Seyssel et al.) |
-| 10:26-10:39         | #871: Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces (Liu et al.) |
-| 10:40-10:53         | #1862: Evaluating context-invariance in unsupervised speech representations (Hallap et al.) |
+| 10:12-10:25         | ProsAudit: A prosodic benchmark for self-supervised speech models (De Seyssel et al.) |
+| 10:26-10:39         | Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces (Liu et al.) |
+| 10:40-10:53         | Evaluating context-invariance in unsupervised speech representations (Hallap et al.) |
 |                     | **Oral presentations: Model track**                            |
-| 10:54-11:07         | #1390 – CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning (Meng et al.) |
-| 11:08-11:08         | #847 – Self-supervised Fine-tuning for Improved Content Representations by Speaker-invariant Clustering (Chang et al.) |
-| 11:22-11:35         | #359 – Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder (Lin et al.) |
+| 10:54-11:07         | CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning (Meng et al.) |
+| 11:08-11:08         | Self-supervised Fine-tuning for Improved Content Representations by Speaker-invariant Clustering (Chang et al.) |
+| 11:22-11:35         | Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder (Lin et al.) |
 | 11:36-12:00         | **Guided panel discussion with paper authors**              |
 
 
