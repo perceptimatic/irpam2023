@@ -58,7 +58,7 @@ Or other reproducible evaluations that can be found in the existing literature.
 Submissions for IRPAM will follow the same schedule and procedure as the main [Interspeech 2023](https://interspeech2023.org) conference, which will be held in-person in Dublin. More details to come.
 
 ### Important Dates
-- Paper submission deadline: **March 1st, 2023**, 23:59, Anywhere on Earth.
+- ~~Paper submission deadline: **March 1st, 2023**, 23:59, Anywhere on Earth.~~
 - Paper update deadline: **March 8th, 2023**, 23:59, Anywhere on Earth.
 - Author notification: **May 17th, 2023**
 - Interspeech conference dates: **August 20th to 24th**, Dublin, Ireland
